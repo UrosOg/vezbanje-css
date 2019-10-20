@@ -1,0 +1,16 @@
+body{
+			background-color: #4b5054;
+			
+		}
+h1{
+
+font-size:200px;
+color:#9c8130;
+
+}
+p{
+font-size:160px;
+color:#ff1616;
+
+
+}
